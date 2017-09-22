@@ -1,0 +1,165 @@
+2017-09-21T17:51:54,646 INFO  [Sample][main|LogApp] 16 main Info : number is 4
+2017-09-21T17:51:54,647 WARN  [Sample][main|LogApp] 17 main Warning : number is 4
+2017-09-21T17:51:54,648 DEBUG [Sample][main|LogApp] 18 main Debug : number is 4
+2017-09-21T17:51:54,648 ERROR [Sample][main|LogApp] 19 main Error : number is 4
+2017-09-21T17:51:54,649 FATAL [Sample][main|LogApp] 20 main Fatal : number is 4
+2017-09-21T17:51:54,649 INFO  [Sample][main|LogApp] 29 main Info : You chose a number < 100 
+2017-09-21T17:51:54,649 WARN  [Sample][main|LogApp] 30 main Warning : You chose a number < 100 
+2017-09-21T17:51:54,649 DEBUG [Sample][main|LogApp] 31 main Debug : You chose a number < 100 
+2017-09-21T17:51:54,650 ERROR [Sample][main|LogApp] 32 main Error : You chose a number < 100 
+2017-09-21T17:51:54,650 FATAL [Sample][main|LogApp] 33 main Fatal : You chose a number < 100 
+2017-09-21T17:51:54,650 INFO  [Sample][main|LogApp] 38 main Info : Your number has the digit 4
+2017-09-21T17:51:54,650 WARN  [Sample][main|LogApp] 39 main Warning : Your number has the digit 4
+2017-09-21T17:51:54,650 DEBUG [Sample][main|LogApp] 40 main Debug : Your number has the digit 4
+2017-09-21T17:51:54,650 ERROR [Sample][main|LogApp] 41 main Error : Your number has the digit 4
+2017-09-21T17:51:54,651 FATAL [Sample][main|LogApp] 42 main Fatal : Your number has the digit 4
+2017-09-21T17:53:50,287 INFO  [Sample][main|LogApp] 15 main Info : number is 5
+2017-09-21T17:53:50,290 WARN  [Sample][main|LogApp] 16 main Warning : number is 5
+2017-09-21T17:53:50,290 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5
+2017-09-21T17:53:50,291 ERROR [Sample][main|LogApp] 18 main Error : number is 5
+2017-09-21T17:53:50,291 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5
+2017-09-21T17:53:50,292 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 
+2017-09-21T17:53:50,292 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 
+2017-09-21T17:53:50,294 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 
+2017-09-21T17:53:50,294 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 
+2017-09-21T17:53:50,295 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 
+2017-09-21T17:53:50,295 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5
+2017-09-21T17:53:50,295 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5
+2017-09-21T17:53:50,296 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5
+2017-09-21T17:53:50,296 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5
+2017-09-21T17:53:50,297 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5
+2017-09-21T18:01:41,114 INFO  [Sample][main|LogApp] 15 main Info : number is 5 
+2017-09-21T18:01:41,115 WARN  [Sample][main|LogApp] 16 main Warning : number is 5 
+2017-09-21T18:01:41,116 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5 
+2017-09-21T18:01:41,116 ERROR [Sample][main|LogApp] 18 main Error : number is 5 
+2017-09-21T18:01:41,116 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5 
+2017-09-21T18:01:41,116 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100  
+2017-09-21T18:01:41,117 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100  
+2017-09-21T18:01:41,117 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100  
+2017-09-21T18:01:41,117 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100  
+2017-09-21T18:01:41,118 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100  
+2017-09-21T18:01:41,118 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-21T18:01:41,119 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5 
+2017-09-21T18:01:41,119 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5 
+2017-09-21T18:01:41,119 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5 
+2017-09-21T18:01:41,120 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5 
+2017-09-21T18:02:27,327 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:02:27,329 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:02:27,329 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:02:27,330 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:02:27,331 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:02:27,331 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:02:27,332 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:02:27,332 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:02:27,332 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:02:27,333 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:02:27,333 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:02:27,334 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:02:27,335 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:02:27,335 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:02:27,336 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:02:57,796 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:02:57,798 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:02:57,798 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:02:57,799 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:02:57,799 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:02:57,799 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:02:57,800 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:02:57,800 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:02:57,800 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:02:57,800 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:02:57,801 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:02:57,801 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:02:57,802 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:02:57,802 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:02:57,802 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:03:08,470 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:03:08,473 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:03:08,473 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:03:08,473 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:03:08,474 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:03:08,474 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:03:08,475 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:03:08,475 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:03:08,476 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:03:08,476 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:03:08,476 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:03:08,477 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:03:08,477 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:03:08,477 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:03:08,478 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:03:23,821 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:03:23,823 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:03:23,823 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:03:23,824 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:03:23,824 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:03:23,824 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:03:23,825 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:03:23,825 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:03:23,826 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:03:23,826 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:03:23,826 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:03:23,827 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:03:23,837 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:03:23,837 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:03:23,838 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:03:37,556 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:03:37,560 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:03:37,560 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:03:37,561 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:03:37,561 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:03:37,562 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:03:37,563 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:03:37,563 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:03:37,564 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:03:37,565 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:03:37,566 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:03:37,566 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:03:37,567 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:03:37,567 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:03:37,568 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:03:54,785 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:03:54,789 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:03:54,789 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:03:54,790 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:03:54,791 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:03:54,791 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:03:54,792 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:03:54,792 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:03:54,792 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:03:54,793 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:03:54,793 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:03:54,794 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:03:54,794 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:03:54,794 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:03:54,795 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:06:47,234 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahah 
+2017-09-21T18:06:47,239 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahah 
+2017-09-21T18:06:47,240 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahah 
+2017-09-21T18:06:47,240 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahah 
+2017-09-21T18:06:47,241 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahah 
+2017-09-21T18:06:47,241 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahah 
+2017-09-21T18:06:47,242 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahah 
+2017-09-21T18:06:47,243 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahah 
+2017-09-21T18:06:47,243 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahah 
+2017-09-21T18:06:47,243 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahah 
+2017-09-21T18:06:47,244 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahah 
+2017-09-21T18:06:47,245 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahah 
+2017-09-21T18:06:47,246 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahah 
+2017-09-21T18:06:47,247 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahah 
+2017-09-21T18:06:47,247 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahah 
+2017-09-21T18:07:04,281 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahaha 
+2017-09-21T18:07:04,284 WARN  [Sample][main|LogApp] 16 main Warning : number is 5hahaha 
+2017-09-21T18:07:04,285 DEBUG [Sample][main|LogApp] 17 main Debug : number is 5hahaha 
+2017-09-21T18:07:04,285 ERROR [Sample][main|LogApp] 18 main Error : number is 5hahaha 
+2017-09-21T18:07:04,286 FATAL [Sample][main|LogApp] 19 main Fatal : number is 5hahaha 
+2017-09-21T18:07:04,287 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahaha 
+2017-09-21T18:07:04,287 WARN  [Sample][main|LogApp] 29 main Warning : You chose a number < 100 hahaha 
+2017-09-21T18:07:04,287 DEBUG [Sample][main|LogApp] 30 main Debug : You chose a number < 100 hahaha 
+2017-09-21T18:07:04,288 ERROR [Sample][main|LogApp] 31 main Error : You chose a number < 100 hahaha 
+2017-09-21T18:07:04,288 FATAL [Sample][main|LogApp] 32 main Fatal : You chose a number < 100 hahaha 
+2017-09-21T18:07:04,289 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahaha 
+2017-09-21T18:07:04,289 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5hahaha 
+2017-09-21T18:07:04,290 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahaha 
+2017-09-21T18:07:04,290 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahaha 
+2017-09-21T18:07:04,290 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahaha 

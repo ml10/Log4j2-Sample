@@ -1,18 +1,17 @@
 package com.mkanchwala.loggers.main;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
+import java.io.IOException;
 
 public class LogApp {
 	static Logger log = LogManager.getLogger(LogApp.class.getName());
 	public static void main(String[] args) throws IOException {
 		System.out.println("/******* Choose a number *******/ \n");
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int number = Integer.valueOf(br.readLine());
+		//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		//int number = Integer.valueOf(br.readLine());
+		int number = 115;
 		log.info("Info : number is " + number);
 		log.warn("Warning : number is " + number);
 		log.debug("Debug : number is " + number);
