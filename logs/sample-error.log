@@ -122,3 +122,11 @@
 2017-09-22T13:36:44,748 FATAL [Sample][main|LogApp] 42 main Fatal : number is http://*** 
 2017-09-22T13:37:53,729 ERROR [Sample][main|LogApp] 41 main Error : number is http://*** 
 2017-09-22T13:37:53,730 FATAL [Sample][main|LogApp] 42 main Fatal : number is http://*** 
+2017-09-22T14:51:26,812 ERROR [Sample][main|LogApp] 25 main Error : number is http://10.144.1.10 
+2017-09-22T14:51:26,814 FATAL [Sample][main|LogApp] 26 main Fatal : number is http://10.144.1.10 
+2017-09-22T14:52:11,377 ERROR [Sample][main|LogApp] 25 main Error : number is http://*** 
+2017-09-22T14:52:11,378 FATAL [Sample][main|LogApp] 26 main Fatal : number is http://*** 
+2017-09-22T14:55:03,626 ERROR [Sample][main|LogApp] 25 main Error : number is http://*** 
+2017-09-22T14:55:03,628 FATAL [Sample][main|LogApp] 26 main  
+2017-09-22T14:55:37,090 ERROR [Sample][main|LogApp] 25 main  
+2017-09-22T14:55:37,091 FATAL [Sample][main|LogApp] 26 main Fatal : number is http://*** 

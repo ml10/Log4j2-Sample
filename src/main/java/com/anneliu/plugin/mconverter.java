@@ -13,6 +13,7 @@ public class mconverter extends LogEventPatternConverter {
 
   public mconverter(String[] options) {
     super("lm", "lm");
+    System.out.println(options.toString());
   }
 
   public static mconverter newInstance(final String[] options) {
@@ -21,7 +22,8 @@ public class mconverter extends LogEventPatternConverter {
 
   @Override
   public void format(LogEvent logEvent, StringBuilder outputMsg) {
-    String message = logEvent.getMessage().getFormat();
+    //String message = logEvent.getMessage().getFormat();
+    String message = logEvent.getMessage().getFormattedMessage();
     //System.out.println("========== raw info is " + message);
     outputMsg.append(replaceSensitiveInfo(message.toString()));
     //outputMsg.append(message.toString());

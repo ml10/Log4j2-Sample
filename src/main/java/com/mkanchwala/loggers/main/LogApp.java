@@ -19,10 +19,10 @@ public class LogApp {
 				+ "definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=61970}]}";
 
 
-		log.info("Info : number is " + infostr);
-		log.warn("Warning : number is " + infostr2);
-		log.debug("Debug : number is " + infostr2);
-		log.error("Error : number is " + infostr);
-		log.fatal("Fatal : number is " + infostr);
+		log.info("Info : number is {}", infostr);
+		log.warn("Warning : number is {}", infostr2);
+		log.debug("Debug : number is {}", infostr2);
+		log.error("");
+		log.fatal("Fatal : number is {}", infostr);
 	}
 }

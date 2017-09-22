@@ -78,3 +78,23 @@
 </raml> 
 2017-09-22T13:37:53,729 ERROR [Sample][main|LogApp] 41 main Error : number is http://*** 
 2017-09-22T13:37:53,730 FATAL [Sample][main|LogApp] 42 main Fatal : number is http://*** 
+2017-09-22T14:51:26,805 INFO  [Sample][main|LogApp] 22 main Info : number is http://10.144.1.10 
+2017-09-22T14:51:26,812 WARN  [Sample][main|LogApp] 23 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=2RAz-sEVT-9qVU-MaUP}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=61970}]} 
+2017-09-22T14:51:26,812 DEBUG [Sample][main|LogApp] 24 main Debug : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=2RAz-sEVT-9qVU-MaUP}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=61970}]} 
+2017-09-22T14:51:26,812 ERROR [Sample][main|LogApp] 25 main Error : number is http://10.144.1.10 
+2017-09-22T14:51:26,814 FATAL [Sample][main|LogApp] 26 main Fatal : number is http://10.144.1.10 
+2017-09-22T14:52:11,366 INFO  [Sample][main|LogApp] 22 main Info : number is http://*** 
+2017-09-22T14:52:11,374 WARN  [Sample][main|LogApp] 23 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T14:52:11,375 DEBUG [Sample][main|LogApp] 24 main Debug : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T14:52:11,377 ERROR [Sample][main|LogApp] 25 main Error : number is http://*** 
+2017-09-22T14:52:11,378 FATAL [Sample][main|LogApp] 26 main Fatal : number is http://*** 
+2017-09-22T14:55:03,614 INFO  [Sample][main|LogApp] 22 main Info : number is http://*** 
+2017-09-22T14:55:03,622 WARN  [Sample][main|LogApp] 23 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T14:55:03,624 DEBUG [Sample][main|LogApp] 24 main Debug : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T14:55:03,626 ERROR [Sample][main|LogApp] 25 main Error : number is http://*** 
+2017-09-22T14:55:03,628 FATAL [Sample][main|LogApp] 26 main  
+2017-09-22T14:55:37,077 INFO  [Sample][main|LogApp] 22 main Info : number is http://*** 
+2017-09-22T14:55:37,087 WARN  [Sample][main|LogApp] 23 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T14:55:37,088 DEBUG [Sample][main|LogApp] 24 main Debug : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T14:55:37,090 ERROR [Sample][main|LogApp] 25 main  
+2017-09-22T14:55:37,091 FATAL [Sample][main|LogApp] 26 main Fatal : number is http://*** 
