@@ -12,7 +12,7 @@ import org.apache.logging.log4j.core.pattern.LogEventPatternConverter;
 public class mconverter extends LogEventPatternConverter {
 
   public mconverter(String[] options) {
-    super("lm", "m");
+    super("lm", "lm");
   }
 
   public static mconverter newInstance(final String[] options) {
@@ -22,7 +22,7 @@ public class mconverter extends LogEventPatternConverter {
   @Override
   public void format(LogEvent logEvent, StringBuilder outputMsg) {
     String message = logEvent.getMessage().getFormat();
-    System.out.println("==========" + message);
+    //System.out.println("========== raw info is " + message);
     outputMsg.append(replaceSensitiveInfo(message.toString()));
     //outputMsg.append(message.toString());
   }

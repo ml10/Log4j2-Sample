@@ -88,3 +88,25 @@
 2017-09-22T10:53:37,185 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 1 
 2017-09-22T10:53:37,187 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5 
 2017-09-22T10:53:37,188 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5 
+2017-09-22T10:56:52,734 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:56:52,736 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T10:56:52,738 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 0 
+2017-09-22T10:56:52,739 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 0 
+2017-09-22T10:56:52,742 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 1 
+2017-09-22T10:56:52,742 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 1 
+2017-09-22T10:56:52,744 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 4 
+2017-09-22T10:56:52,745 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 4 
+2017-09-22T10:56:52,746 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 10 
+2017-09-22T10:56:52,747 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 10 
+2017-09-22T10:57:27,273 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:57:27,274 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T10:58:22,634 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:58:22,635 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T10:58:52,627 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:58:52,628 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T11:01:52,035 ERROR [Sample][main|LogApp] 24 main Error : number is http://*** 
+2017-09-22T11:01:52,036 FATAL [Sample][main|LogApp] 25 main Fatal : number is http://*** 
+2017-09-22T11:02:08,393 ERROR [Sample][main|LogApp] 24 main Error : number is http://*** 
+2017-09-22T11:02:08,394 FATAL [Sample][main|LogApp] 25 main Fatal : number is http://*** 
+2017-09-22T11:03:50,175 ERROR [Sample][main|LogApp] 41 main Error : number is http://*** 
+2017-09-22T11:03:50,176 FATAL [Sample][main|LogApp] 42 main Fatal : number is http://*** 

@@ -43,3 +43,14 @@
 2017-09-22T10:53:37,176 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
 2017-09-22T10:53:37,183 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
 2017-09-22T10:53:37,186 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-22T10:56:52,727 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:56:52,736 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 0 
+2017-09-22T10:56:52,739 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 1 
+2017-09-22T10:56:52,743 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 4 
+2017-09-22T10:56:52,745 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 10 
+2017-09-22T10:57:27,265 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:58:22,626 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:58:52,617 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T11:01:52,026 INFO  [Sample][main|LogApp] 21 main Info : number is http://*** 
+2017-09-22T11:02:08,385 INFO  [Sample][main|LogApp] 21 main Info : number is http://*** 
+2017-09-22T11:03:50,163 INFO  [Sample][main|LogApp] 38 main Info : number is http://*** 

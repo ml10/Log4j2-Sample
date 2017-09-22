@@ -223,3 +223,73 @@
 2017-09-22T10:53:37,187 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5 
 2017-09-22T10:53:37,187 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5 
 2017-09-22T10:53:37,188 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5 
+2017-09-22T10:56:52,727 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:56:52,733 WARN  [Sample][main|LogApp] 16 main Warning : number is http://*** 
+2017-09-22T10:56:52,734 DEBUG [Sample][main|LogApp] 17 main Debug : number is http://*** 
+2017-09-22T10:56:52,734 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:56:52,736 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T10:56:52,736 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 0 
+2017-09-22T10:56:52,737 WARN  [Sample][main|LogApp] 25 main Warning : Your number has the digit 0 
+2017-09-22T10:56:52,738 DEBUG [Sample][main|LogApp] 26 main Debug : Your number has the digit 0 
+2017-09-22T10:56:52,738 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 0 
+2017-09-22T10:56:52,739 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 0 
+2017-09-22T10:56:52,739 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 1 
+2017-09-22T10:56:52,740 WARN  [Sample][main|LogApp] 25 main Warning : Your number has the digit 1 
+2017-09-22T10:56:52,740 DEBUG [Sample][main|LogApp] 26 main Debug : Your number has the digit 1 
+2017-09-22T10:56:52,742 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 1 
+2017-09-22T10:56:52,742 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 1 
+2017-09-22T10:56:52,743 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 4 
+2017-09-22T10:56:52,743 WARN  [Sample][main|LogApp] 25 main Warning : Your number has the digit 4 
+2017-09-22T10:56:52,744 DEBUG [Sample][main|LogApp] 26 main Debug : Your number has the digit 4 
+2017-09-22T10:56:52,744 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 4 
+2017-09-22T10:56:52,745 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 4 
+2017-09-22T10:56:52,745 INFO  [Sample][main|LogApp] 24 main Info : Your number has the digit 10 
+2017-09-22T10:56:52,746 WARN  [Sample][main|LogApp] 25 main Warning : Your number has the digit 10 
+2017-09-22T10:56:52,746 DEBUG [Sample][main|LogApp] 26 main Debug : Your number has the digit 10 
+2017-09-22T10:56:52,746 ERROR [Sample][main|LogApp] 27 main Error : Your number has the digit 10 
+2017-09-22T10:56:52,747 FATAL [Sample][main|LogApp] 28 main Fatal : Your number has the digit 10 
+2017-09-22T10:57:27,265 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:57:27,271 WARN  [Sample][main|LogApp] 16 main Warning : number is http://*** 
+2017-09-22T10:57:27,272 DEBUG [Sample][main|LogApp] 17 main Debug : number is http://*** 
+2017-09-22T10:57:27,273 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:57:27,274 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T10:58:22,626 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:58:22,633 WARN  [Sample][main|LogApp] 16 main Warning : number is http://*** 
+2017-09-22T10:58:22,633 DEBUG [Sample][main|LogApp] 17 main Debug : number is http://*** 
+2017-09-22T10:58:22,634 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:58:22,635 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T10:58:52,617 INFO  [Sample][main|LogApp] 15 main Info : number is http://*** 
+2017-09-22T10:58:52,624 WARN  [Sample][main|LogApp] 16 main Warning : number is http://*** 
+2017-09-22T10:58:52,626 DEBUG [Sample][main|LogApp] 17 main Debug : number is http://*** 
+2017-09-22T10:58:52,627 ERROR [Sample][main|LogApp] 18 main Error : number is http://*** 
+2017-09-22T10:58:52,628 FATAL [Sample][main|LogApp] 19 main Fatal : number is http://*** 
+2017-09-22T11:01:52,026 INFO  [Sample][main|LogApp] 21 main Info : number is http://*** 
+2017-09-22T11:01:52,032 WARN  [Sample][main|LogApp] 22 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T11:01:52,034 DEBUG [Sample][main|LogApp] 23 main Debug : number is http://*** 
+2017-09-22T11:01:52,035 ERROR [Sample][main|LogApp] 24 main Error : number is http://*** 
+2017-09-22T11:01:52,036 FATAL [Sample][main|LogApp] 25 main Fatal : number is http://*** 
+2017-09-22T11:02:08,385 INFO  [Sample][main|LogApp] 21 main Info : number is http://*** 
+2017-09-22T11:02:08,390 WARN  [Sample][main|LogApp] 22 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T11:02:08,392 DEBUG [Sample][main|LogApp] 23 main Debug : number is http://*** 
+2017-09-22T11:02:08,393 ERROR [Sample][main|LogApp] 24 main Error : number is http://*** 
+2017-09-22T11:02:08,394 FATAL [Sample][main|LogApp] 25 main Fatal : number is http://*** 
+2017-09-22T11:03:50,163 INFO  [Sample][main|LogApp] 38 main Info : number is http://*** 
+2017-09-22T11:03:50,170 WARN  [Sample][main|LogApp] 39 main Warning : number is {SimpleAndComplexParameter{name='preSharedKey', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]}, {SimpleAndComplexParameter{name='refNum', definition=Optional.empty}, names='null, params=null, value=Optional[ParameterValue{value=***}]} 
+2017-09-22T11:03:50,172 DEBUG [Sample][main|LogApp] 40 main Debug : number is <raml xmlns="raml21.xsd">
+    <cmData type="actual">
+        <header>
+            <log dateTime="2017-05-10T13:51:18+08:00" action=""/>
+        </header>
+        <managedObject class="CMP" operation="update" distName="/BTSMED-1/CERTH-1/CMP-1">
+            <p name="caSubjectName">***</p>
+            <p name="cmpId">1</p>
+            <p name="eeSubjectName">CN = L9153200322, O=Nokia Networks</p>
+            <p name="preSharedKey">***</p>
+            <p name="refNum">***</p>
+            <p name="password">***</p>            <p name="serverHost">***</p>
+            <p name="serverPort">8081</p>
+        </managedObject>
+    </cmData>
+</raml> 
+2017-09-22T11:03:50,175 ERROR [Sample][main|LogApp] 41 main Error : number is http://*** 
+2017-09-22T11:03:50,176 FATAL [Sample][main|LogApp] 42 main Fatal : number is http://*** 
