@@ -15,9 +15,7 @@
 		</Console>
   
 	 <RollingFile name="DEBUG" fileName="${log-path}/${log-project-name}-debug.log" filePattern="${log-path}/${log-project-name}-debug-%d-%i.log.zip">
-		<PatternLayout>
-			<pattern>${log-pattern}</pattern>
-		</PatternLayout>
+		 <PatternLayout pattern="${log-pattern}"/>
 		<Policies>
 			<SizeBasedTriggeringPolicy size="${rolling-size-based}" />
 		</Policies>
