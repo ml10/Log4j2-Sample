@@ -31,3 +31,15 @@
 2017-09-21T18:07:04,281 INFO  [Sample][main|LogApp] 15 main Info : number is 5hahaha 
 2017-09-21T18:07:04,287 INFO  [Sample][main|LogApp] 28 main Info : You chose a number < 100 hahaha 
 2017-09-21T18:07:04,289 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5hahaha 
+2017-09-22T10:39:09,901 INFO  [Sample][main|LogApp] 15 main Info : number is 115 
+2017-09-22T10:39:09,908 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
+2017-09-22T10:39:09,913 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
+2017-09-22T10:39:09,917 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-22T10:51:17,040 INFO  [Sample][main|LogApp] 15 main Info : number is 115 
+2017-09-22T10:51:17,051 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
+2017-09-22T10:51:17,058 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
+2017-09-22T10:51:17,062 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-22T10:53:37,166 INFO  [Sample][main|LogApp] 15 main Info : number is 115 
+2017-09-22T10:53:37,176 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
+2017-09-22T10:53:37,183 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
+2017-09-22T10:53:37,186 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 

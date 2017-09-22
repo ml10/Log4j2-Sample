@@ -1,5 +1,7 @@
 package com.anneliu.plugin;
 
+import static com.anneliu.plugin.SensitiveInfoEraser.replaceSensitiveInfo;
+
 import org.apache.logging.log4j.core.LogEvent;
 import org.apache.logging.log4j.core.config.plugins.Plugin;
 import org.apache.logging.log4j.core.pattern.ConverterKeys;
@@ -21,8 +23,8 @@ public class mconverter extends LogEventPatternConverter {
   public void format(LogEvent logEvent, StringBuilder outputMsg) {
     String message = logEvent.getMessage().getFormat();
     System.out.println("==========" + message);
-    //outputMsg.append(replaceSensitiveInfo(message.toString()));
-    outputMsg.append(message.toString());
+    outputMsg.append(replaceSensitiveInfo(message.toString()));
+    //outputMsg.append(message.toString());
   }
 
 

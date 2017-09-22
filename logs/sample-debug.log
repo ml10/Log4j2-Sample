@@ -163,3 +163,63 @@
 2017-09-21T18:07:04,290 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5hahaha 
 2017-09-21T18:07:04,290 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5hahaha 
 2017-09-21T18:07:04,290 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5hahaha 
+2017-09-22T10:39:09,901 INFO  [Sample][main|LogApp] 15 main Info : number is 115 
+2017-09-22T10:39:09,906 WARN  [Sample][main|LogApp] 16 main Warning : number is 115 
+2017-09-22T10:39:09,906 DEBUG [Sample][main|LogApp] 17 main Debug : number is 115 
+2017-09-22T10:39:09,906 ERROR [Sample][main|LogApp] 18 main Error : number is 115 
+2017-09-22T10:39:09,907 FATAL [Sample][main|LogApp] 19 main Fatal : number is 115 
+2017-09-22T10:39:09,908 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
+2017-09-22T10:39:09,909 WARN  [Sample][main|LogApp] 23 main Warning : You chose a number > 100  
+2017-09-22T10:39:09,910 DEBUG [Sample][main|LogApp] 24 main Debug : You chose a number > 100  
+2017-09-22T10:39:09,910 ERROR [Sample][main|LogApp] 25 main Error : You chose a number > 100  
+2017-09-22T10:39:09,911 FATAL [Sample][main|LogApp] 26 main Fatal : You chose a number > 100  
+2017-09-22T10:39:09,913 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
+2017-09-22T10:39:09,913 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 1 
+2017-09-22T10:39:09,914 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 1 
+2017-09-22T10:39:09,915 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 1 
+2017-09-22T10:39:09,915 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 1 
+2017-09-22T10:39:09,917 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-22T10:39:09,918 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5 
+2017-09-22T10:39:09,919 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5 
+2017-09-22T10:39:09,920 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5 
+2017-09-22T10:39:09,921 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5 
+2017-09-22T10:51:17,040 INFO  [Sample][main|LogApp] 15 main Info : number is 115 
+2017-09-22T10:51:17,048 WARN  [Sample][main|LogApp] 16 main Warning : number is 115 
+2017-09-22T10:51:17,048 DEBUG [Sample][main|LogApp] 17 main Debug : number is 115 
+2017-09-22T10:51:17,049 ERROR [Sample][main|LogApp] 18 main Error : number is 115 
+2017-09-22T10:51:17,050 FATAL [Sample][main|LogApp] 19 main Fatal : number is 115 
+2017-09-22T10:51:17,051 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
+2017-09-22T10:51:17,052 WARN  [Sample][main|LogApp] 23 main Warning : You chose a number > 100  
+2017-09-22T10:51:17,053 DEBUG [Sample][main|LogApp] 24 main Debug : You chose a number > 100  
+2017-09-22T10:51:17,055 ERROR [Sample][main|LogApp] 25 main Error : You chose a number > 100  
+2017-09-22T10:51:17,056 FATAL [Sample][main|LogApp] 26 main Fatal : You chose a number > 100  
+2017-09-22T10:51:17,058 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
+2017-09-22T10:51:17,059 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 1 
+2017-09-22T10:51:17,059 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 1 
+2017-09-22T10:51:17,060 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 1 
+2017-09-22T10:51:17,061 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 1 
+2017-09-22T10:51:17,062 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-22T10:51:17,062 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5 
+2017-09-22T10:51:17,063 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5 
+2017-09-22T10:51:17,063 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5 
+2017-09-22T10:51:17,064 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5 
+2017-09-22T10:53:37,166 INFO  [Sample][main|LogApp] 15 main Info : number is 115 
+2017-09-22T10:53:37,173 WARN  [Sample][main|LogApp] 16 main Warning : number is 115 
+2017-09-22T10:53:37,174 DEBUG [Sample][main|LogApp] 17 main Debug : number is 115 
+2017-09-22T10:53:37,174 ERROR [Sample][main|LogApp] 18 main Error : number is 115 
+2017-09-22T10:53:37,175 FATAL [Sample][main|LogApp] 19 main Fatal : number is 115 
+2017-09-22T10:53:37,176 INFO  [Sample][main|LogApp] 22 main Info : You chose a number > 100  
+2017-09-22T10:53:37,180 WARN  [Sample][main|LogApp] 23 main Warning : You chose a number > 100  
+2017-09-22T10:53:37,180 DEBUG [Sample][main|LogApp] 24 main Debug : You chose a number > 100  
+2017-09-22T10:53:37,181 ERROR [Sample][main|LogApp] 25 main Error : You chose a number > 100  
+2017-09-22T10:53:37,182 FATAL [Sample][main|LogApp] 26 main Fatal : You chose a number > 100  
+2017-09-22T10:53:37,183 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 1 
+2017-09-22T10:53:37,184 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 1 
+2017-09-22T10:53:37,184 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 1 
+2017-09-22T10:53:37,185 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 1 
+2017-09-22T10:53:37,185 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 1 
+2017-09-22T10:53:37,186 INFO  [Sample][main|LogApp] 37 main Info : Your number has the digit 5 
+2017-09-22T10:53:37,187 WARN  [Sample][main|LogApp] 38 main Warning : Your number has the digit 5 
+2017-09-22T10:53:37,187 DEBUG [Sample][main|LogApp] 39 main Debug : Your number has the digit 5 
+2017-09-22T10:53:37,187 ERROR [Sample][main|LogApp] 40 main Error : Your number has the digit 5 
+2017-09-22T10:53:37,188 FATAL [Sample][main|LogApp] 41 main Fatal : Your number has the digit 5 
