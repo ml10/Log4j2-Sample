@@ -1,5 +1,5 @@
 # Log4j2 - Apache Log4j Sample Application
-# My update to Practise on log4j2 plugin-converters : mask sensitive info in log -anneliu
+## My update to Practise on log4j2 plugin-converters : mask sensitive info in log -anneliu
 
 Sample Project to show the capability on log4j and log4j2
 
